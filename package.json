@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/AndreaCeccatoUlulab/logger-js/issues"
   },
-  "homepage": "https://github.com/AndreaCeccatoUlulab/logger-js#readme"
+  "homepage": "https://github.com/AndreaCeccatoUlulab/logger-js#readme",
+  "publishConfig": {
+    "@AndreaCeccatoUlulab:registry": "https://npm.pkg.github.com"
+  }
 }
