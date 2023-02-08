@@ -1,0 +1,25 @@
+{
+  "name": "logger-js",
+  "version": "1.0.0",
+  "description": "Logger js: wrapper of winston",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreaCeccatoUlulab/logger-js.git"
+  },
+  "keywords": [
+    "logger",
+    "js",
+    "winston",
+    "strapi"
+  ],
+  "author": "Andrea Ceccato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreaCeccatoUlulab/logger-js/issues"
+  },
+  "homepage": "https://github.com/AndreaCeccatoUlulab/logger-js#readme"
+}
